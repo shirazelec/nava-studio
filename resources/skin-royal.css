@@ -1,0 +1,24 @@
+window.nava-window {
+  background-color: #0f0a1a;
+  color: #e8d0ff;
+  font-family: "Inter", "Cantarell", "Noto Sans", sans-serif;
+}
+.app-shell {
+  background-image: radial-gradient(circle at 10% 0%, rgba(168,85,247,0.15) 0%, rgba(15,10,26,0) 35%),
+                    radial-gradient(circle at 90% 2%, rgba(236,72,153,0.18) 0%, rgba(15,10,26,0) 38%),
+                    linear-gradient(158deg, #0e0818 0%, #140c24 55%, #160e20 100%);
+}
+.top-bar {
+  background-color: rgba(20,12,35,0.92);
+  border-bottom: 1px solid rgba(192,132,252,0.15);
+}
+.brand-mark {
+  background-image: linear-gradient(135deg, #c084fc 0%, #a855f7 54%, #ec4899 100%);
+  color: #0f0a1a;
+}
+.brand-title { color: #f5e8ff; }
+.brand-sub { color: #a88ac8; }
+button.accent-button {
+  background-image: linear-gradient(135deg, #c084fc 0%, #a855f7 58%, #ec4899 100%);
+  color: #ffffff;
+}

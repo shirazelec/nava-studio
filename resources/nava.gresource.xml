@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/com/shirazelectronic/NavaStudio">
+    <file>style.css</file>
+    <file>skin-midnight.css</file>
+    <file>skin-forest.css</file>
+    <file>skin-sunset.css</file>
+    <file>skin-royal.css</file>
+    <file>skin-cherry.css</file>
+    <file>skin-ocean.css</file>
+    <file>skin-mono.css</file>
+    <file>icons/hicolor/scalable/ui/window-close-symbolic.svg</file>
+    <file>icons/hicolor/scalable/ui/window-restore-symbolic.svg</file>
+    <file>icons/hicolor/scalable/categories/preferences-other-symbolic.svg</file>
+    <file>icons/hicolor/scalable/actions/document-open-symbolic.svg</file>
+    <file>icons/hicolor/scalable/actions/document-save-symbolic.svg</file>
+    <file>icons/hicolor/scalable/actions/media-playback-pause-symbolic.svg</file>
+    <file>icons/hicolor/scalable/actions/media-playback-start-symbolic.svg</file>
+    <file>icons/hicolor/scalable/actions/media-playback-stop-symbolic.svg</file>
+    <file>icons/hicolor/scalable/actions/media-seek-backward-symbolic.svg</file>
+    <file>icons/hicolor/scalable/actions/media-seek-forward-symbolic.svg</file>
+    <file>icons/hicolor/scalable/actions/media-skip-backward-symbolic.svg</file>
+    <file>icons/hicolor/scalable/actions/media-skip-forward-symbolic.svg</file>
+    <file>icons/hicolor/scalable/actions/sidebar-show-symbolic.svg</file>
+    <file>icons/hicolor/scalable/actions/view-fullscreen-symbolic.svg</file>
+    <file>icons/hicolor/scalable/actions/view-restore-symbolic.svg</file>
+    <file>icons/hicolor/scalable/mimetypes/audio-x-generic-symbolic.svg</file>
+    <file>icons/hicolor/scalable/mimetypes/video-x-generic-symbolic.svg</file>
+    <file>icons/hicolor/scalable/status/audio-volume-high-symbolic.svg</file>
+    <file>icons/hicolor/scalable/status/audio-volume-muted-symbolic.svg</file>
+    <file>icons/hicolor/scalable/status/media-playlist-repeat-song-symbolic.svg</file>
+    <file>icons/hicolor/scalable/status/media-playlist-repeat-symbolic.svg</file>
+    <file>icons/hicolor/scalable/status/media-playlist-shuffle-symbolic.svg</file>
+  </gresource>
+</gresources>

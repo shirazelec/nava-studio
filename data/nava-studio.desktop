@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Nava Studio
+GenericName=Media Player
+Comment=GTK4 media player powered by FFmpeg 8
+Exec=nava-studio %F
+TryExec=nava-studio
+Icon=nava-studio
+Terminal=false
+StartupWMClass=com.shirazelectronic.NavaStudio
+Categories=AudioVideo;Player;Video;Audio;AudioVideoEditing;
+MimeType=video/mp4;video/x-matroska;video/webm;video/quicktime;video/x-msvideo;video/mpeg;video/mp2t;video/ogg;video/3gpp;video/3gpp2;video/x-flv;video/x-ms-wmv;video/x-m4v;video/mts;video/vob;video/x-mpeg;video/x-ms-asf;video/mp4v-es;video/x-avi;audio/mpeg;audio/mp3;audio/flac;audio/x-flac;audio/ogg;audio/opus;audio/x-opus+ogg;audio/x-wav;audio/wav;audio/x-pn-wav;audio/mp4;audio/m4a;audio/x-m4a;audio/aac;audio/x-aac;audio/x-ms-wma;audio/x-aiff;audio/x-dts;audio/vnd.dolby.dd-raw;audio/x-matroska;audio/x-ape;audio/x-wavpack;audio/x-musepack;audio/x-speex;audio/x-vorbis+ogg;audio/3gpp;audio/amr;audio/x-amr;audio/ac3;audio/eac3;
+Keywords=video;audio;player;ffmpeg;gtk4;music;movie;

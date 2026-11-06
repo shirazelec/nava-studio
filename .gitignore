@@ -1,0 +1,34 @@
+# Build output & binaries
+build/
+build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+dist/
+nava-studio
+nava-engine-test
+*.o
+*.a
+*.so
+*.so.*
+*.dylib
+*.dll
+*.exe
+
+# Packages & archives
+*.deb
+*.tar.gz
+*.tar.xz
+*.zip
+
+# Test scratch & logs
+.tmp_*
+*.log
+
+# Editor & IDE artifacts
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
